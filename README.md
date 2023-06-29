@@ -26,3 +26,5 @@ e3........................
 - List Movie içerisinde kaydırmalı ekran bir (slider) da listele
 
 # reactnetfclone
+<img src="https://github.com/em1ne/reactnetfclone/assets/121401426/38c59da1-04fc-408e-9aee-dfc11846f5fc.gif" >
+
